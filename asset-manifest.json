@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pushnotification-app/static/css/main.0b55fa82.css",
-    "main.js": "/pushnotification-app/static/js/main.d8efb7d0.js",
+    "main.css": "/pushnotification-app/static/css/main.bea6574b.css",
+    "main.js": "/pushnotification-app/static/js/main.cbf1d6ac.js",
     "static/media/logo.svg": "/pushnotification-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/pushnotification-app/index.html",
-    "main.0b55fa82.css.map": "/pushnotification-app/static/css/main.0b55fa82.css.map",
-    "main.d8efb7d0.js.map": "/pushnotification-app/static/js/main.d8efb7d0.js.map"
+    "main.bea6574b.css.map": "/pushnotification-app/static/css/main.bea6574b.css.map",
+    "main.cbf1d6ac.js.map": "/pushnotification-app/static/js/main.cbf1d6ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b55fa82.css",
-    "static/js/main.d8efb7d0.js"
+    "static/css/main.bea6574b.css",
+    "static/js/main.cbf1d6ac.js"
   ]
 }
